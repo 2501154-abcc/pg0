@@ -1,6 +1,8 @@
 
 body{
     margin: 0;
+    background-image: url(imgae/青グラ.png);
+    background-repeat: round;
 }
 
 #pagename-nav{
