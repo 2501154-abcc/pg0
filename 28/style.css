@@ -8,6 +8,8 @@ body{
     color: #FFFFFF;
     padding: 20px;
     width: 100%;
+    position: fixed;
+    top: 0;
 }
 
 #pagename-nav ul{
@@ -31,6 +33,7 @@ body{
 .name-div{
     padding: 30px;
     background-color: #CCCCCC;
+    margin-top: 50px;
 }
 
 .name-div h2{
@@ -45,6 +48,10 @@ body{
     margin-left: 25px;
 }
 
+.music-div{
+    margin-top: 80px;
+}
+
 .music-div h2{
     margin-left: 30px;
     background-color: rgb(25, 63, 255);
@@ -56,7 +63,7 @@ body{
 }
 
 .music-div img{
-    width: 70%;
+    width: 50%;
     margin-left: 30px;
     border-radius: 10px;
 }
@@ -67,6 +74,10 @@ body{
 
 .music-div ul{
     margin-left: 40px;
+}
+
+.anime-div{
+    margin-top: 80px;
 }
 
 .anime-div h2{
@@ -80,13 +91,17 @@ body{
 }
 
 .anime-div img{
-    width: 70%;
+    width: 50%;
     margin-left: 30px;
     border-radius: 10px;
 }
 
 .anime-div p{
     margin-left: 40px;
+}
+
+.manga-div{
+    margin-top: 80px;
 }
 
 .manga-div h2{
@@ -100,13 +115,17 @@ body{
 }
 
 .manga-div img{
-    width: 70%;
+    width: 50%;
     margin-left: 30px;
     border-radius: 10px;
 }
 
 .manga-div p{
     margin-left: 40px;
+}
+
+.from-div{
+    margin-top: 80px;
 }
 
 .from-div h2{
@@ -119,13 +138,17 @@ body{
 }
 
 .from-div img{
-    width: 70%;
+    width: 50%;
     margin-left: 30px;
     border-radius: 10px;
 }
 
 .from-div p{
     margin-left: 40px;
+}
+
+.summer-div{
+    margin-top: 80px;
 }
 
 .summer-div h2{
@@ -138,7 +161,7 @@ body{
 }
 
 .summer-div img{
-    width: 70%;
+    width: 50%;
     margin-left: 30px;
     border-radius: 10px;
 }
